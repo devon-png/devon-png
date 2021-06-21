@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devon
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning GPT-2 and working on my final year MSc project
+- 🌱 I’m currently learning MySQL, Python, and GPT-2 and working on my final year MSc project!
 - 💞️ I’m looking to be hired as a junior data analysist, or begin a career in something techy/IT related
 - 📫 you can reach me through my linkedIn https://www.linkedin.com/in/devon-motte-828aa487/ 
 
